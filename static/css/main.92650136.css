@@ -1,0 +1,2 @@
+body{background:#f9f9fb;margin:0;padding:0}.user-card{align-items:center;background:linear-gradient(135deg,#fefefe,#f3f3ff);border-radius:15px;box-shadow:0 8px 20px #0000001a;display:flex;gap:20px;margin:20px auto;max-width:500px;padding:20px;transition:transform .3s ease;width:80%}.user-card:hover{transform:scale(1.03)}.avatar{border:3px solid #6c63ff;border-radius:50%;height:80px;object-fit:cover;width:80px}.user-info{text-align:left}.user-info h2{color:#333;margin:0}.user-info p{color:#555;font-size:14px;margin:4px 0}
+/*# sourceMappingURL=main.92650136.css.map*/
